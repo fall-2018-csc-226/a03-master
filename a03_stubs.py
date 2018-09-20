@@ -21,7 +21,7 @@ from time import sleep
 #    bob.setpos(-80, 0)
 #    return bob
 #    pass
-    # into the ass
+    # into the
 
 
 def func_doit(tName, w, h):
@@ -54,7 +54,7 @@ def func_doit(tName, w, h):
     tName.end_fill()
     tName.penup()
     pass
-    # into the ass
+    # into the
 
 
 def func_doall(tName,a,rnd,flps):
@@ -76,7 +76,7 @@ def func_doall(tName,a,rnd,flps):
         else:
             pass
     tName.penup()
-    # into the ass
+    # into the
 
 
 def main():
@@ -104,7 +104,7 @@ def main():
     bob.setpos(150, 150)
     sleep(5)
     pass
-    # into the ass
+    # into the
 
 
 main()
