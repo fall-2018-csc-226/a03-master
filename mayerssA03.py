@@ -2,7 +2,8 @@
 # Author: Sean Mayers
 # Username: mayerss
 #
-# Assignment: A03: A Pair of Fully Functional Gitty Psychedelic Robotic Turtles
+#  Assignment: A03: A Pair of Fully Functional Gitty Psychedelic Robotic Turtles
+#  https://docs.google.com/document/d/194NcxhWKxvXBkckrroD5LMH5eT30_UZasVuB7P2pofE/edit?usp=sharing
 # Purpose:
 #################################################################################
 # Acknowledgements:
